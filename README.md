@@ -1,11 +1,14 @@
 <div align="center">
 
-# Hola, soy Juan Diego 👋
+# ⚡ Juan Diego
 
-### Estudiante de Desarrollo de Software
+### Desarrollo de software · Modding de videojuegos
 
-Me gusta crear aplicaciones, trabajar con bases de datos
-y desarrollar proyectos relacionados con videojuegos.
+![Python](https://img.shields.io/badge/Python-0B172A?style=for-the-badge&logo=python&logoColor=00D9FF)
+![Haxe](https://img.shields.io/badge/Haxe-0B172A?style=for-the-badge&logo=haxe&logoColor=00D9FF)
+![Lua](https://img.shields.io/badge/Lua-0B172A?style=for-the-badge&logo=lua&logoColor=00D9FF)
+
+**Construyo aplicaciones y personalizo experiencias de juego.**
 
 </div>
 
