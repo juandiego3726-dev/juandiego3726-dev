@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**juandiego3726-dev/juandiego3726-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Juan Diego 👋
 
-Here are some ideas to get you started:
+### Estudiante de Desarrollo de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta crear aplicaciones, trabajar con bases de datos
+y desarrollar proyectos relacionados con videojuegos.
+
+</div>
+
+---
+
+## 🚀 Proyectos
+
+### 🚗 PACTE
+Aplicación académica para la gestión del acceso vehicular.
+Próximamente agregaré aquí su descripción y repositorio.
+
+### 🎮 Mod de Friday Night Funkin'
+Proyecto de modding con temática Pibby.
+Próximamente agregaré aquí su descripción y repositorio.
+
+---
+
+## 🛠️ Tecnologías
+
+Python · PyQt5 · MySQL · SQL · GitHub
