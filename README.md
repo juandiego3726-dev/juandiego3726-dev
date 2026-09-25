@@ -29,9 +29,11 @@ parqueadero de docentes de una institución educativa.
 
 > La integración con el portón físico queda como una posible mejora futura.
 
-### 🎮 Mod de Friday Night Funkin'
-Proyecto de modding con temática Pibby.
-Próximamente agregaré aquí su descripción y repositorio.
+### 🎮 Pibby Apocalypse My Take
+
+Mi proyecto de modding de *Friday Night Funkin'*, desarrollado con Psych Engine. He trabajado en la programación y adaptación de código Haxe (`.hx`) y scripts Lua (`.lua`) para construir menús, integrar contenido y crear efectos y comportamientos dentro del juego.
+
+El mod reúne distintas canciones y experiencias bajo una misma presentación; entre ellas, la semana de Finn. Los dibujos y otros recursos visuales utilizados no son creaciones mías.
 
 ---
 
