@@ -13,9 +13,21 @@ y desarrollar proyectos relacionados con videojuegos.
 
 ## 🚀 Proyectos
 
-### 🚗 PACTE
-Aplicación académica para la gestión del acceso vehicular.
-Próximamente agregaré aquí su descripción y repositorio.
+### 🚗 PACTE — Control de acceso vehicular
+
+Desarrollé una aplicación de escritorio para gestionar el acceso al
+parqueadero de docentes de una institución educativa.
+
+- 🔐 Inicio de sesión y gestión de usuarios.
+- 👩‍🏫 Registro de docentes y vehículos autorizados.
+- 🚘 Registro de entradas y salidas mediante la placa.
+- 📊 Indicadores de ocupación y espacios disponibles.
+- 📄 Historial de movimientos, filtros y reportes en PDF.
+- 🚧 Visualización simulada del estado del portón.
+
+**Tecnologías:** Python · PyQt5 · MySQL
+
+> La integración con el portón físico queda como una posible mejora futura.
 
 ### 🎮 Mod de Friday Night Funkin'
 Proyecto de modding con temática Pibby.
