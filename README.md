@@ -33,7 +33,6 @@ parqueadero de docentes de una institución educativa.
 **Desarrollo de aplicaciones:** Python · PyQt5 · MySQL · SQL  
 **Modding de videojuegos:** Haxe · Lua · Psych Engine  
 **Herramientas:** GitHub
-
 > La integración con el portón físico queda como una posible mejora futura.
 
 ### 🎮 Pibby Apocalypse My Take
