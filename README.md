@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner de Juan Diego](https://capsule-render.vercel.app/api?type=waving&color=0:0B172A,50:075985,100:00D9FF&height=200&section=header&text=Juan%20Diego&fontSize=55&fontColor=FFFFFF&animation=fadeIn)
+![Banner de Juan Diego Arevalo Bermeo](https://capsule-render.vercel.app/api?type=waving&color=0:0B172A,50:075985,100:00D9FF&height=200&section=header&text=Juan%20Diego&fontSize=55&fontColor=FFFFFF&animation=fadeIn)
 
 ### Desarrollo de software · Modding de videojuegos
 
